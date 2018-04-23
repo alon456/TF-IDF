@@ -1,12 +1,5 @@
-###################################
-#           Project:              #
-#         Dror Brunman            #
-#        Alon Davidoff            #
-#          Ron Fischer            #
-###################################
-
 #### Globals
-pref		= "C:/spark/spark/bin/results/" #probaly need to change this
+pref		= "C:/spark/spark/bin/results/"
 const_e 	= 2.71828 #the constant value of e, for calculating lan value
 _write_temp = 200 #temp for writing '-' into output file for seperation
 
