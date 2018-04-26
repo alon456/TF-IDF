@@ -1,3 +1,10 @@
+###################################
+#           Project:              #
+#         Alon Davidoff           #
+#         Dror Brunman            #
+#         Ron Fischer             #
+###################################
+
 #### Globals
 pref		= "C:/spark/spark/bin/results/"
 const_e 	= 2.71828 #the constant value of e, for calculating lan value
